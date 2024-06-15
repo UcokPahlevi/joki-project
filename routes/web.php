@@ -8,3 +8,8 @@ Route::get('/', function () {
 
 
 Route::get('tes', 'TesController@index');
+Route::get('tes2', 'TesController@dbjada');
+
+
+
+
